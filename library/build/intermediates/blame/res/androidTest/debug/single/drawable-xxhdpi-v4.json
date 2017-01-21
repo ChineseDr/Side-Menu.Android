@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Side-Menu.Android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\item_up.png",
+        "source": "D:\\Android\\Side-Menu.Android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\item_up.png"
+    },
+    {
+        "merged": "D:\\Android\\Side-Menu.Android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\item_down.png",
+        "source": "D:\\Android\\Side-Menu.Android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\item_down.png"
+    }
+]
